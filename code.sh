@@ -40,15 +40,15 @@ name_js=(
   JDHelloWorld_jd_scripts_jd_pet
   JDHelloWorld_jd_scripts_jd_plantBean
   JDHelloWorld_jd_scripts_jd_dreamFactory
-  JDHelloWorld_jd_scripts_jd_jdfactory
-  JDHelloWorld_jd_scripts_jd_jdzz
-  JDHelloWorld_jd_scripts_jd_crazy_joy
+  panghu999_jd_scripts_jd_jdfactory
+  panghu999_jd_scripts_jd_jdzz
+  Jpanghu999_jd_scripts_jd_crazy_joy
   JDHelloWorld_jd_scripts_jd_jxnc
   JDHelloWorld_jd_scripts_jd_bookshop
   JDHelloWorld_jd_scripts_jd_cash
   JDHelloWorld_jd_scripts_jd_sgmh
   JDHelloWorld_jd_scripts_jd_cfd
-  JDHelloWorld_jd_scripts_jd_health
+  panghu999_jd_scripts_jd_health
 )
 
 name_config=(
