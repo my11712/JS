@@ -42,7 +42,7 @@ name_js=(
   JDHelloWorld_jd_scripts_jd_dreamFactory
   panghu999_jd_scripts_jd_jdfactory
   panghu999_jd_scripts_jd_jdzz
-  Jpanghu999_jd_scripts_jd_crazy_joy
+  panghu999_jd_scripts_jd_crazy_joy
   JDHelloWorld_jd_scripts_jd_jxnc
   JDHelloWorld_jd_scripts_jd_bookshop
   JDHelloWorld_jd_scripts_jd_cash
